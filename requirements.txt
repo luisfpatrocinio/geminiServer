@@ -1,3 +1,6 @@
 Pillow
 google-generativeai
 python-dotenv
+asyncio
+websockets
+json
